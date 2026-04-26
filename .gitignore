@@ -1,0 +1,9 @@
+# appsettings - Environment-specific configurations
+appsettings.*.json
+appsettings.local.json
+appsettings.development.json
+appsettings.staging.json
+appsettings.production.json
+
+# Except appsettings.json (base configuration template)
+!appsettings.json
