@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="PGApp/PGApp.csproj" />
+  <Project Path="PGAppTest/PGAppTest.csproj" />
+</Solution>
